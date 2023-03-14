@@ -1,0 +1,9 @@
+# conda env create|update -f environment.yml
+name: search-engine
+channels:
+- defaults
+dependencies:
+- python=3.10.*
+- pip=22.1.*
+- pip:
+  - -r requirements.txt

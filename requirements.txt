@@ -1,0 +1,9 @@
+numpy==1.23.*
+pandas==1.5.*
+nltk==3.8.*
+scikit-learn==1.2.*
+openpyxl==3.1.*
+tensorflow==2.11.*
+tensorflow-ranking==0.5.*
+pytest==7.2.*
+gensim==4.3.*
